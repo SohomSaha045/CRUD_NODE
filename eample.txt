@@ -1,0 +1,3 @@
+Schema - (Define struvture)
+   Schema->Model
+   (using Model we do CRUD ops)
